@@ -59,10 +59,19 @@ form input[type=text] {
     padding: 5px;
 }
 
+#roomSelect {
+    width: 30%;
+}
+
+#chats {
+    overflow: auto;
+}
+
 .chat {
     padding: 5px;
     margin-bottom: 5px;
     background-color: #eee;
+    overflow: auto;
 }
 
 .chat .username {
@@ -73,12 +82,23 @@ form input[type=text] {
     background-color: #ddd;
 }
 
+.chat .timestamp {
+    font-size: 10px;
+    float: right;
+}
+
 .spinner {
     float: right;
     height: 46px;
     margin-bottom: 5px;
+    position: relative;
+    top: 65px;
 }
 
 .spinner img {
     padding: 10px;
+}
+
+.friend {
+    text-color: red;
 }
