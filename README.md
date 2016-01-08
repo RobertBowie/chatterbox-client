@@ -1,7 +1,7 @@
 Chatterbox client
 ==============
 
-This is a project I completed as a student at Hack Reactor. This project is a result of pair programming. During the project we built a chat client consuming data from a parse API. The final client app has been refactored with various libraries/frameworks, including  jQuery and Backbone.
+This is a project I completed as a student at Hack Reactor. This project is a result of pair programming. During the project we built a chat client consuming data from a parse API.
 
 ## Structure:
 
