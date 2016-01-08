@@ -8,7 +8,6 @@ This is a project I completed as a student at Hack Reactor. This project is a re
 The repository consist of
 
 - jQuery app
-- backbone app
 - test Spec files
 
 #### Chatterbox app - using jQuery
