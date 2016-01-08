@@ -24,9 +24,9 @@ then to run it, simply open `./client/index.html` with your browser.
 
 Make sure to have a valid config.js inside the env folder.
 
-### SpecRunner - mocha
+### SpecRunner - Mocha
 
-The specrunner contain both the tests for the client
+The specrunner contains both the tests for the client.
 
 ### Testing
 
